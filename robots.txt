@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moonbeamtrail.tech/sitemap.xml
